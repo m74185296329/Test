@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="select_box">請選擇其中一個</string>
+    <string name="input_name">請輸入玩家姓名</string>
+    <string name="select_scissors">剪刀</string>
+    <string name="select_rock">石頭</string>
+    <string name="select_paper">布</string>
+    <string name="start_game">猜拳</string>
+    <string name="label_name">姓名</string>
+    <string name="label_winner">勝利者</string>
+    <string name="label_me">我方出拳</string>
+    <string name="label_pc">電腦出拳</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="nextPage">下一頁</string>
+    <string name="nextPageTitle">第二頁</string>
+    <string name="goBackButton">回上一頁</string>
+</resources>
